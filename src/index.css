@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* font-family: "Noto Sans TC"; */
+  font-family: "Fjalla One", sans-serif;
+}
